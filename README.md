@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PeggyLin2022
-- 👀 I’m interested in singing and TV series.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on ...(have no idea now haha)
+- 🌱 I’m currently learning Python and SQL. 
 - 📫 How to reach me：stu90233@gmail.com
 
 <!---
