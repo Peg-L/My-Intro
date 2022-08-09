@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeggyLin2022
-- 🌱 I’m currently learning Python and SQL. 
+- 🌱 I’m currently learning html and CSS. I've learned basic SQL and Python. 
 - 📫 How to reach me：stu90233@gmail.com
 
 <!---
